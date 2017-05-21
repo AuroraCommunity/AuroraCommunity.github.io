@@ -4,7 +4,7 @@
             <p><a href="#"><i class="fa fa-angle-up"></i></a></p>
 
             <p>
-                &copy; 2017 Aurora Community.<br>Site by <a href="https://dnomaid.co.uk">dnomaid</a> using the <a href="http://bulma.io">Bulma</a> CSS framework.
+                &copy; 2017 Aurora Community.<br>Site by <a href="https://dnomaid.co.uk">dnomaid</a> using the <a href="http://bulma.io">Bulma</a> CSS framework.<br>View the <a href="https://github.com/mrdnomaid/AuroraCommunity">Source Code on <i class="fa fa-github fa-fw"></i> GitHub</a>
             </p>
         </div>
     </div>
