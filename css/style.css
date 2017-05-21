@@ -1,0 +1,155 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    /*margin-top: 2em;*/
+    background-color: #64016b;
+    min-height: 100%;
+}
+
+#content {
+    background-color: #fff;
+}
+
+#content-inner {
+    background: #fff;
+    max-width: 60em;
+    margin: 0 auto;
+}
+
+a {
+    transition: all 0.25s linear;
+}
+
+.someone {
+    transition: all 0.25s;
+    border-radius: 50%;
+    background-color: #ddd;
+    border: 5px solid #64016b;
+    display: inline-block;
+    max-width: 75%;
+}
+
+.someone:hover {
+    transform: /*scale(1.5)*/
+    rotate(360deg);
+}
+
+.ceo {
+    border: 5px solid #E41E4A;
+}
+
+.manager {
+    border: 5px solid #914A83;
+}
+
+.admin-plus {
+    border: 5px solid #3490BF;
+}
+
+.admin {
+    border: 5px solid #225B7E;
+}
+
+.mod {
+    border: 5px solid #32BC53;
+}
+
+.hero, nav {
+    background-color: #64016b !important;
+}
+
+#aurora-hero-logo {
+    box-shadow: 0px 0px 20px #fff;
+    transition: all 0.5s;
+    margin-bottom: 10px;
+}
+
+#aurora-hero-logo:hover {
+    animation: shadow-pulse 1s infinite linear;
+}
+
+@keyframes shadow-pulse {
+    0% {
+        box-shadow: 0px 0px 20px #fff;
+    }
+    50% {
+        box-shadow: 0px 0px 50px #fff;
+    }
+    100% {
+        box-shadow: 0px 0px 20px #fff;
+    }
+}
+
+nav {
+    position: fixed !important;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    opacity: 0.75;
+}
+
+nav a, .nav-item, nav strong {
+    color: #F7FEF7 !important;
+}
+
+nav a:hover, .nav-item:hover, nav strong:hover {
+    color: #aaa !important;
+}
+
+.nav-toggle:hover {
+    background-color: #aaa !important;
+}
+
+.nav-toggle span {
+    background-color: #F7FEF7 !important;
+}
+
+.hero-body {
+    text-align: center;
+}
+
+.hero-body h1.title {
+    color: #F7FEF7 !important;
+}
+
+.button:hover {
+    opacity: 0.75;
+}
+
+@media screen and (max-width: 768px) {
+    .nav-menu.is-active {
+        background-color: #64016b;
+    }
+}
+
+footer {
+    background-color: #64016b !important;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 100%;
+}
+
+footer * {
+    color: #F7FEF7 !important;
+}
+
+footer a {
+    text-decoration: underline !important;
+}
+
+footer a:hover {
+    color: #aaa !important;
+}
+
+
+/*#footer-inner {
+  position: absolute;
+  bottom: 2em;
+  left: 0;
+  width: 100%;
+  text-align: c
+}*/

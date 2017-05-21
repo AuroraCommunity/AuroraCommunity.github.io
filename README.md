@@ -1,2 +1,2 @@
-# AuroraCommunity
-Aurora Community's site.
+## Aurora Community's site.
+Excuse the bad indentation and all that.
