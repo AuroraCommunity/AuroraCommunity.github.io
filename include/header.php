@@ -12,7 +12,7 @@
 
     <!-- Meta -->
     <meta name="description" content="A Discord community proud to have over 2,000 members.">
-    <meta name="keywords" content="aurora, community, discord, website, site, da532, devon">
+    <meta name="keywords" content="aurora, community, discord, website, site, da532, devon, scammer.info, thunder tech">
     <!-- Open Graph  -->
     <meta property="og:description" content="A Discord community proud to have over 2,000 members." />
     <meta property="og:image" content="img/aurora.jpg">
