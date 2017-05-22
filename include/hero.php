@@ -37,12 +37,15 @@
               <a class="nav-item" href="#staff">
                   <i class="fa fa-wrench fa-fw" style="margin-right: 5px;"></i> Staff
               </a>
+              <a class="nav-item" href="https://docs.google.com/forms/d/e/1FAIpQLSdQz8iCPuy0l8tJrZ8EMqGD2wh-sAaWvU7xoLXlhwRFAR_4BA/viewform">
+                  <i class="fa fa-file-text fa-fw" target="_blank" style="margin-right: 5px;"></i> Appeal
+              </a>
             </div>
         </nav>
     </div>
     <div class="hero-body">
         <img src="img/aurora.jpg" alt="AuroraCommunity" style="width: 150px; border-radius: 50%;" id="aurora-hero-logo">
         <h1 class="title">Aurora Community</h1>
-        <h1><a class="button is-light" href="https://discord.io/aurora">Join Discord Server</a></h1>
+        <h1><a class="button is-light" target="_blank" href="https://discord.io/aurora">Join Discord Server</a></h1>
     </div>
 </section>
