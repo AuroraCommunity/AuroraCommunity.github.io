@@ -11,14 +11,14 @@
     <link href="img/aurora.jpg" rel="shortcut icon" type="img/png">
 
     <!-- Meta -->
-    <meta name="description" content="A Discord community with over 2000 members">
-    <meta name="keywords" content="aurora, aurora, community, discord, website, site, da532, devon">
+    <meta name="description" content="A Discord community proud to have over 2,000 members.">
+    <meta name="keywords" content="aurora, community, discord, website, site, da532, devon">
     <!-- Open Graph  -->
-    <meta property="og:description" content="A Discord community with over 2000 members" />
+    <meta property="og:description" content="A Discord community proud to have over 2,000 members." />
     <meta property="og:image" content="img/aurora.jpg">
     <!-- Twitter -->
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@CommunityAurora" />
     <meta name="twitter:title" content="Aurora Community" />
-    <meta name="twitter:description" content="A Discord community with over 2000 members" />
+    <meta name="twitter:description" content="A Discord community proud to have over 2,000 members." />
     <meta name="twitter:image" content="img/aurora.jpg" />
