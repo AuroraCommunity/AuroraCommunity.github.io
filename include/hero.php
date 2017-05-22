@@ -9,12 +9,12 @@
 
 
             <div class="nav-center">
-                <a class="nav-item" href="https://twitter.com/CommunityAurora">
+                <a class="nav-item" target="_blank" href="https://twitter.com/CommunityAurora">
                     <span class="icon">
           <i class="fa fa-twitter"></i>
         </span>
                 </a>
-                <a class="nav-item" href="https://www.youtube.com/channel/UC2elmvdZakWn4fwNXU8LPIw">
+                <a class="nav-item" target="_blank" href="https://www.youtube.com/channel/UC2elmvdZakWn4fwNXU8LPIw">
                     <span class="icon">
             <i class="fa fa-youtube-play"></i>
           </span>

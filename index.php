@@ -14,7 +14,7 @@
         <h2 class="subtitle">What even is Aurora?</h2>
         <p>Aurora is a community of people.</p>
         <p>Since late 2016 we've amassed over 2000 members.</p>
-        <p>We're all interested in technology and outing tech support scammers.</p>
+        <p>We're mostly interested in technology and outing tech support scammers.</p>
     </div>
 
     <div id="staff" class="section" style="text-align: center;">
@@ -22,25 +22,25 @@
         <h2 class="subtitle">Who's in charge?</h2>
         <div class="columns">
             <div class="column">
-                <a href="http://da532.com"><img src="img/people/da532.png" class="someone ceo"></a>
+                <a href="http://da532.com" target="_blank"><img src="img/people/da532.png" class="someone ceo"></a>
                 <h3>Devon (Da532)</h3>
                 <p>Server Owner, CEO</p>
             </div>
 
               <div class="column">
-                <a href="https://youtube.com/FletchXYZ"><img src="img/people/fletch.png" class="someone ceo"></a>
+                <a href="https://youtube.com/FletchXYZ" target="_blank"><img src="img/people/fletch.png" class="someone ceo"></a>
                 <h3>Haden (FletchXYZ)</h3>
                 <p>CEO</p>
             </div>
 
             <div class="column">
-                <a href="http://thunderte.ch"><img src="img/people/thunder.png" class="someone manager"></a>
+                <a href="http://thunderte.ch" target="_blank"><img src="img/people/thunder.png" class="someone manager"></a>
                 <h3>Cameron (Thunder)</h3>
                 <p>Manager</p>
             </div>
 
             <div class="column">
-                <a href="https://dnomaid.co.uk"><img src="img/people/dnomaid.png" class="someone manager"></a>
+                <a href="https://dnomaid.co.uk" target="_blank"><img src="img/people/dnomaid.png" class="someone manager"></a>
                 <h3>Tom (dnomaid)</h3>
                 <p>Manager</p>
             </div>
@@ -49,25 +49,25 @@
 
         <div class="columns">
           <div class="column">
-                <a href="http://www.windowslogic.co.uk/"><img src="img/people/wlp.png" class="someone admin-plus"></a>
-                <h3>Tim <span title="WindowsLogicProductions">(WLP)</a></h3>
+                <a href="http://www.windowslogic.co.uk/" target="_blank"><img src="img/people/wlp.png" class="someone admin-plus"></a>
+                <h3>Tim <span title="WindowsLogic Productions">(WLP)</a></h3>
                 <p>Head Admin</p>
           </div>
 
             <div class="column">
-                <a href="https://therandommelon.xyz/"><img src="img/people/melon.png" class="someone admin"></a>
+                <a href="https://therandommelon.xyz/" target="_blank"><img src="img/people/melon.png" class="someone admin"></a>
                 <h3>Michael <span title="TheRandomMelon">(TRM)</span></h3>
                 <p>Admin</p>
             </div>
 
             <div class="column">
-                <a href="https://www.discord.io/espislounge"><img src="img/people/espi.png" class="someone admin"></a>
+                <a href="https://www.discord.io/espislounge" target="_blank"><img src="img/people/espi.png" class="someone admin"></a>
                 <h3>Espi Netsky</h3>
                 <p>Admin</p>
             </div>
 
             <div class="column">
-                <a href="https://crashieblog.wordpress.com"><img src="img/people/crashie.png" class="someone admin"></a>
+                <a href="https://crashieblog.wordpress.com" target="_blank"><img src="img/people/crashie.png" class="someone admin"></a>
                 <h3>Kira (Crashie)</h3>
                 <p>Admin</p>
             </div>
@@ -88,7 +88,7 @@
           </div>
 
           <div class="column">
-              <a href="https://www.youtube.com/channel/UC04awUMPfLwEGtCCWvYq-UQ"><img src="img/people/anidox.png" class="someone mod"></a>
+              <a href="https://www.youtube.com/channel/UC04awUMPfLwEGtCCWvYq-UQ" target="_blank"><img src="img/people/anidox.png" class="someone mod"></a>
               <h3>Anidox</h3>
               <p>Mod</p>
           </div>
