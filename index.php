@@ -94,8 +94,8 @@
           </div>
 
           <div class="column">
-              <img src="img/people/anns.png" class="someone mod">
-              <h3>ANNSQuake</h3>
+              <img src="img/people/duke.png" class="someone mod">
+              <h3>Dukiverse</h3>
               <p>Mod</p>
           </div>
 
