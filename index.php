@@ -108,7 +108,7 @@
           <div class="column">
               <a href="https://www.youtube.com/channel/UCfpY45UhtJ9i-_PJVwBOzvA
 " target="_blank" rel="noopener noreferrer"><img src="img/people/jaffa.png" class="someone mod"></a>
-              <h3 title="AKA TheJaffaMeme">TheJaffaMan</h3>
+              <h3>Dan <span title="AKA TheJaffaMeme">(TheJaffaMan)</span></h3>
               <p>Mod</p>
           </div>
 
