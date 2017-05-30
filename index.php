@@ -72,6 +72,13 @@
                 <p>Admin</p>
             </div>
 
+
+            <div class="column">
+                <a href="https://www.youtube.com/channel/UC04awUMPfLwEGtCCWvYq-UQ" target="_blank" rel="noopener noreferrer"><img src="img/people/anidox.png" class="someone admin"></a>
+                <h3>Anidox</h3>
+                <p>Admin</p>
+          </div>
+
         </div>
 
         <div class="columns">
@@ -79,12 +86,6 @@
           <div class="column">
               <img src="img/people/torazer.png" class="someone mod">
               <h3>Torazer</h3>
-              <p>Mod</p>
-          </div>
-
-          <div class="column">
-              <a href="https://www.youtube.com/channel/UC04awUMPfLwEGtCCWvYq-UQ" target="_blank" rel="noopener noreferrer"><img src="img/people/anidox.png" class="someone mod"></a>
-              <h3>Anidox</h3>
               <p>Mod</p>
           </div>
 
