@@ -118,6 +118,12 @@
               <p>Mod</p>
           </div>
 
+          <div class="column">
+              <a href="https://gellat.io" target="_blank" rel="noopener noreferrer"><img src="img/people/gellatio.png" class="someone mod"></a>
+              <h3>Gellatio</h3>
+              <p>Mod</p>
+          </div>
+
         </div>
     </div>
 
