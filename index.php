@@ -72,11 +72,6 @@
                 <p>Admin</p>
             </div>
 
-            <div class="column">
-                <img src="img/people/ren.png" class="someone admin">
-                <h3>Renekton</h3>
-                <p>Admin</p>
-            </div>
         </div>
 
         <div class="columns">
@@ -100,12 +95,6 @@
           </div>
 
           <div class="column">
-              <img src="img/people/rainbow.png" class="someone mod">
-              <h3>Nicole <span title="RainbowStar331">(RS331)</span></h3>
-              <p>Mod</p>
-          </div>
-
-          <div class="column">
               <a href="https://www.youtube.com/channel/UCfpY45UhtJ9i-_PJVwBOzvA
 " target="_blank" rel="noopener noreferrer"><img src="img/people/jaffa.png" class="someone mod"></a>
               <h3>Dan <span title="AKA TheJaffaMeme">(TheJaffaMan)</span></h3>
@@ -124,7 +113,17 @@
               <p>Mod</p>
           </div>
 
+          <div class="column">
+            <img src="img/people/ren.png" class="someone mod">
+            <h3>Renekton</h3>
+            <p>Mod</p>
         </div>
+
+        <div class="column">
+          <img src="img/people/trashy.png" class="someone mod">
+          <h3>TrashyClassy</h3>
+          <p>Mod</p>
+      </div>
     </div>
 
   </div>
