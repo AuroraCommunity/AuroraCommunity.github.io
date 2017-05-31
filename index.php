@@ -125,6 +125,12 @@
           <h3>TrashyClassy</h3>
           <p>Mod</p>
       </div>
+
+      <div class="column">
+        <img src="img/people/jj.png" class="someone mod">
+        <h3>JJ The Husky</h3>
+        <p>Mod</p>
+    </div>
     </div>
 
   </div>
