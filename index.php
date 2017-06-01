@@ -20,17 +20,11 @@
     <div id="staff" class="section" style="text-align: center;">
         <h1 class="title"><strong>Staff</strong></h1>
         <h2 class="subtitle">Who's in charge?</h2>
-        <div class="columns">
+        <div class="columns" id="managers">
             <div class="column">
                 <a href="http://da532.com" target="_blank" rel="noopener noreferrer"><img src="img/people/da532.png" class="someone ceo"></a>
                 <h3>Devon (Da532)</h3>
                 <p>Server Owner, CEO</p>
-            </div>
-
-              <div class="column">
-                <a href="https://youtube.com/FletchXYZ" target="_blank" rel="noopener noreferrer"><img src="img/people/fletch.png" class="someone ceo"></a>
-                <h3>Haden (FletchXYZ)</h3>
-                <p>CEO</p>
             </div>
 
             <div class="column">
@@ -48,11 +42,11 @@
         </div>
 
         <div class="columns">
-          <!-- <div class="column">
+          <div class="column">
                 <a href="http://www.windowslogic.co.uk/" target="_blank" rel="noopener noreferrer"><img src="img/people/wlp.png" class="someone admin-plus"></a>
                 <h3>Tim <span title="WindowsLogic Productions">(WLP)</a></h3>
                 <p>Head Admin</p>
-          </div> -->
+          </div>
 
             <div class="column">
                 <a href="https://therandommelon.xyz/" target="_blank" rel="noopener noreferrer"><img src="img/people/melon.png" class="someone admin"></a>
@@ -61,7 +55,7 @@
             </div>
 
             <div class="column">
-                <a href="https://www.discord.io/espislounge" target="_blank" rel="noopener noreferrer"><img src="img/people/espi.png" class="someone admin"></a>
+                <a href="https://www.discord.io/netskynetwork/" target="_blank" rel="noopener noreferrer"><img src="img/people/espi.png" class="someone admin"></a>
                 <h3>Espi Netsky</h3>
                 <p>Admin</p>
             </div>
@@ -98,7 +92,7 @@
           <div class="column">
               <a href="https://www.youtube.com/channel/UCfpY45UhtJ9i-_PJVwBOzvA
 " target="_blank" rel="noopener noreferrer"><img src="img/people/jaffa.png" class="someone mod"></a>
-              <h3>Dan <span title="AKA TheJaffaMeme">(TheJaffaMan)</span></h3>
+              <h3><span title="AKA TheJaffaMeme">TheJaffaMan</span></h3>
               <p>Mod</p>
           </div>
 
@@ -128,7 +122,7 @@
 
       <div class="column">
         <img src="img/people/jj.png" class="someone mod">
-        <h3>JJ The Husky</h3>
+        <h3><span title="JJ The Husky">JJ</span></h3>
         <p>Mod</p>
     </div>
     </div>

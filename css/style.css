@@ -16,7 +16,7 @@ body {
 
 #content-inner {
     background: #fff;
-    max-width: 80em;
+    max-width: 70em;
     margin: 0 auto;
 }
 
@@ -44,6 +44,11 @@ a {
 
 .manager {
     border: 5px solid #914A83;
+}
+
+#managers {
+    max-width: 50em;
+    margin: 0 auto;
 }
 
 .admin-plus {
