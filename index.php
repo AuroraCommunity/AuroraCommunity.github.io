@@ -28,14 +28,20 @@
             </div>
 
             <div class="column">
-                <a href="http://thunderte.ch" target="_blank" rel="noopener noreferrer"><img src="img/people/thunder.png" class="someone manager"></a>
-                <h3>Cameron (Thunder)</h3>
-                <p>Manager</p>
+                <a href="http://thunderte.ch" target="_blank" rel="noopener noreferrer"><img src="img/people/thunder.png" class="someone ceo"></a>
+                <h3>Kevin (Thunder)</h3>
+                <p>CEO</p>
             </div>
 
             <div class="column">
                 <a href="https://dnomaid.co.uk" target="_blank" rel="noopener noreferrer"><img src="img/people/dnomaid.png" class="someone manager"></a>
                 <h3>Tom (dnomaid)</h3>
+                <p>Manager</p>
+            </div>
+
+            <div class="column">
+                <a href="http://www.ao554.ml/" target="_blank" rel="noopener noreferrer"><img src="img/people/ao.png" class="someone manager"></a>
+                <h3>Harrison (AO554)</h3>
                 <p>Manager</p>
             </div>
 
