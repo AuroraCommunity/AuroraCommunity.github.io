@@ -31,18 +31,21 @@
             <!-- Add the modifier "is-active" to display it on mobile -->
 
             <div class="nav-right nav-menu">
-              <a class="nav-item" href="#about">
+              <a class="nav-item" href="index.php#about">
                   <i class="fa fa-question-circle fa-fw" style="margin-right: 5px;"></i> About
               </a>
-              <a class="nav-item" href="#staff">
+              <a class="nav-item" href="index.php#staff">
                   <i class="fa fa-wrench fa-fw" style="margin-right: 5px;"></i> Staff
               </a>
-              <a class="nav-item" href="#rules">
+              <a class="nav-item" href="rules.php">
                 <i class="fa fa-list-ol fa-fw" style="margin-right: 5px;"></i> Rules
               </a>
               <a class="nav-item" target="_blank" href="https://goo.gl/forms/ej5UaR6ZcyVOAAn53">
                   <i class="fa fa-file-text fa-fw" target="_blank" style="margin-right: 5px;"></i> Appeal
               </a>
+              <!-- <a class="nav-item" href="https://discord.io/aurora" target="_blank" rel="noopener noreferrer">
+                  <i class="fa fa-server fa-fw" style="margin-right: 5px;"></i> About
+              </a> -->
             </div>
         </nav>
     </div>
