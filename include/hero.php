@@ -37,7 +37,10 @@
               <a class="nav-item" href="#staff">
                   <i class="fa fa-wrench fa-fw" style="margin-right: 5px;"></i> Staff
               </a>
-              <a class="nav-item" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQz8iCPuy0l8tJrZ8EMqGD2wh-sAaWvU7xoLXlhwRFAR_4BA/viewform">
+              <a class="nav-item" href="#rules">
+                <i class="fa fa-list-ol fa-fw" style="margin-right: 5px;"></i> Rules
+              </a>
+              <a class="nav-item" target="_blank" href="https://goo.gl/forms/ej5UaR6ZcyVOAAn53">
                   <i class="fa fa-file-text fa-fw" target="_blank" style="margin-right: 5px;"></i> Appeal
               </a>
             </div>

@@ -125,6 +125,32 @@ nav a:hover, .nav-item:hover, nav strong:hover {
     opacity: 0.75;
 }
 
+.rule {
+    max-width: 50em;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 10px;
+    color: #000;
+    background-color: rgba(100, 1, 107, 0.1);
+    border-radius: 3px;
+    transition: all 0.25s;
+}
+
+.rule:hover {
+    background-color: rgba(100, 1, 107, 0.3);
+    transform: scale(1.1);
+}
+
+.rule strong {
+    color: #333;
+    font-size: 1.2em;
+}
+
+.rule a {
+    color: #333;
+    text-decoration: underline;
+}
+
 @media screen and (max-width: 768px) {
     .nav-menu.is-active {
         background-color: #64016b;
@@ -133,8 +159,6 @@ nav a:hover, .nav-item:hover, nav strong:hover {
 
 footer {
     background-color: #64016b !important;
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
     width: 100%;
 }
 

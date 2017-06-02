@@ -4,7 +4,7 @@
             <p><a href="#"><i class="fa fa-angle-up"></i></a></p>
 
             <p>
-                &copy; 2017 Aurora Community.<br>Site by <a href="https://dnomaid.co.uk">dnomaid</a> and several <a href="https://github.com/AuroraCommunity/AuroraCommunity/graphs/contributors">contributors</a>.<br>View the <a href="https://github.com/mrdnomaid/AuroraCommunity">Source Code on GitHub<i class="fa fa-github fa-fw"></i></a>
+                &copy; 2017 Aurora Community.<br>Site by <a href="https://dnomaid.co.uk">dnomaid</a> and several <a href="https://github.com/AuroraCommunity/AuroraWebsite/graphs/contributors">contributors</a>.<br>View the <a href="https://github.com/AuroraCommunity/AuroraWebsite">Source Code on GitHub<i class="fa fa-github fa-fw"></i></a>
             </p>
         </div>
     </div>
