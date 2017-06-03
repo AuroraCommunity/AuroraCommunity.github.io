@@ -28,7 +28,7 @@
             </div>
 
             <div class="column">
-                <a href="http://thunderte.ch" target="_blank" rel="noopener noreferrer"><img src="img/people/thunder.png" class="someone ceo"></a>
+                <a href="https://www.scammer.info" target="_blank" rel="noopener noreferrer"><img src="img/people/thunder.png" class="someone ceo"></a>
                 <h3>Kevin (Thunder)</h3>
                 <p>CEO</p>
             </div>
