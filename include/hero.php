@@ -43,6 +43,9 @@
               <a class="nav-item" target="_blank" href="https://goo.gl/forms/ej5UaR6ZcyVOAAn53">
                   <i class="fa fa-file-text fa-fw" target="_blank" style="margin-right: 5px;"></i> Appeal
               </a>
+              <a class="nav-item" target="_blank" href="https://www.scammer.info">
+                  <i class="fa fa-phone fa-fw" target="_blank" style="margin-right: 5px;"></i> Scammer Numbers
+              </a>
               <!-- <a class="nav-item" href="https://discord.io/aurora" target="_blank" rel="noopener noreferrer">
                   <i class="fa fa-server fa-fw" style="margin-right: 5px;"></i> About
               </a> -->
