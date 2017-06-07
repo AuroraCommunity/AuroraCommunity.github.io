@@ -132,6 +132,9 @@
         <p>Mod</p>
     </div>
     </div>
+    
+    <a href="mailto:staff@auroracommunity.co"</a>
+	<h3>Have a query? Contact us via Email!</h3>
 
     <!-- Staff End -->
   </div>
