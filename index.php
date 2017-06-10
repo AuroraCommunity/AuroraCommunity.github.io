@@ -50,7 +50,7 @@
         <div class="columns">
           <div class="column">
                 <a href="https://www.youtube.com/channel/UCyOFNvNzwQIC3SL-MksEnbw/" target="_blank" rel="noopener noreferrer"><img src="img/people/regan.png" class="someone admin-plus"></a>
-                <h3>Aoelus <span title="Aoelus">Regan</a></h3>
+                <h3>Aoelus <span title="Aoelus">(Regan)</a></h3>
                 <p>Head Admin</p>
           </div>
 
@@ -62,7 +62,7 @@
 
             <div class="column">
                 <a href="https://www.youtube.com/channel/UCmLtdx7F8QFnsWYUfDSPeKg/" target="_blank" rel="noopener noreferrer"><img src="img/people/technach.png" class="someone admin"></a>
-                <h3>Technach</h3>
+                <h3>Technach <span title="Technach">(Josh)</a></h3>
                 <p>Admin</p>
             </div>
 
@@ -81,7 +81,7 @@
 		  
 		    <div class="column">
                 <img src="img/people/joe.png" class="someone admin"></a>
-                <h3>Joe</h3>
+                <h3>Joe <span title="Joe">(Flich)</a></h3>
                 <p>Admin</p>
           </div>
 
