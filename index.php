@@ -49,8 +49,8 @@
 
         <div class="columns">
           <div class="column">
-                <a href="http://www.windowslogic.co.uk/" target="_blank" rel="noopener noreferrer"><img src="img/people/wlp.png" class="someone admin-plus"></a>
-                <h3>Tim <span title="WindowsLogic Productions">(WLP)</a></h3>
+                <a href="https://www.youtube.com/channel/UCyOFNvNzwQIC3SL-MksEnbw/" target="_blank" rel="noopener noreferrer"><img src="img/people/regan.png" class="someone admin-plus"></a>
+                <h3>Aoelus <span title="Aoelus">Regan</a></h3>
                 <p>Head Admin</p>
           </div>
 
@@ -61,8 +61,8 @@
             </div>
 
             <div class="column">
-                <a href="https://www.discord.io/netskynetwork/" target="_blank" rel="noopener noreferrer"><img src="img/people/espi.png" class="someone admin"></a>
-                <h3>Espi Netsky</h3>
+                <a href="https://www.youtube.com/channel/UCmLtdx7F8QFnsWYUfDSPeKg/" target="_blank" rel="noopener noreferrer"><img src="img/people/technach.png" class="someone admin"></a>
+                <h3>Technach</h3>
                 <p>Admin</p>
             </div>
 
@@ -76,6 +76,12 @@
             <div class="column">
                 <a href="https://www.youtube.com/channel/UC04awUMPfLwEGtCCWvYq-UQ" target="_blank" rel="noopener noreferrer"><img src="img/people/anidox.png" class="someone admin"></a>
                 <h3>Anidox</h3>
+                <p>Admin</p>
+          </div>
+		  
+		    <div class="column">
+                <img src="img/people/joe.png" class="someone admin"></a>
+                <h3>Joe</h3>
                 <p>Admin</p>
           </div>
 
@@ -103,18 +109,6 @@
           </div>
 
           <div class="column">
-              <a href="https://bobpony.org/" target="_blank" rel="noopener noreferrer"><img src="img/people/bobpony.png" class="someone mod"></a>
-              <h3>Bob Pony</h3>
-              <p>Mod</p>
-          </div>
-
-          <div class="column">
-              <a href="https://gellat.io" target="_blank" rel="noopener noreferrer"><img src="img/people/gellatio.png" class="someone mod"></a>
-              <h3>Gellatio</h3>
-              <p>Mod</p>
-          </div>
-
-          <div class="column">
             <img src="img/people/ren.png" class="someone mod">
             <h3>Renekton</h3>
             <p>Mod</p>
@@ -126,11 +120,6 @@
           <p>Mod</p>
       </div>
 
-      <div class="column">
-        <img src="img/people/jj.png" class="someone mod">
-        <h3><span title="JJ The Husky">JJ</span></h3>
-        <p>Mod</p>
-    </div>
     </div>
     
     <a href="mailto:staff@auroracommunity.co"</a>
