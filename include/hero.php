@@ -14,7 +14,7 @@
           <i class="fa fa-twitter"></i>
         </span>
                 </a>
-                <a class="nav-item" target="_blank" href="https://www.youtube.com/channel/UC2elmvdZakWn4fwNXU8LPIw">
+                <a class="nav-item" target="_blank" href="https://www.youtube.com/channel/UCRvO7kucL0C8fQp0BGri89g">
                     <span class="icon">
             <i class="fa fa-youtube-play"></i>
           </span>
