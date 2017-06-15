@@ -45,18 +45,13 @@
                 <span class="tag is-danger">Manager</span>
             </div>
 
-            <div class="column">
-                <a href="http://www.ao554.ml/" target="_blank" rel="noopener noreferrer"><img src="img/people/ao.png" class="someone manager"></a>
-                <h3>Harrison</h3>
-                <span class="tag is-danger">Manager</span>
-            </div>
 
         </div>
 
         <div class="columns">
           <div class="column">
-                <a href="https://www.youtube.com/channel/UCyOFNvNzwQIC3SL-MksEnbw/" target="_blank" rel="noopener noreferrer"><img src="img/people/regan.png" class="someone admin-plus"></a>
-                <h3>Aoelus <span title="Aoelus">(Regan)</a></h3>
+                <a href="https://www.youtube.com/channel/UCcdoAaTTMqdxQYno1v85Qdw" target="_blank" rel="noopener noreferrer"><img src="img/people/espi.png" class="someone admin-plus"></a>
+                <h3>Espi <span title="Espi">(AeroFusion)</a></h3>
                 <span class="tag is-info">Head Admin</span>
           </div>
 
@@ -67,8 +62,8 @@
             </div>
 
             <div class="column">
-                <a href="https://www.youtube.com/channel/UCmLtdx7F8QFnsWYUfDSPeKg/" target="_blank" rel="noopener noreferrer"><img src="img/people/technach.png" class="someone admin"></a>
-                <h3>Technach <span title="Technach">(Josh)</a></h3>
+                <a href="http://windowslogic.co.uk/" target="_blank" rel="noopener noreferrer"><img src="img/people/wlp.png" class="someone admin"></a>
+                <h3>WindowsLogic <span title="WindowsLogic">(Tim)</a></h3>
                 <span class="tag is-info">Admin</span>
             </div>
 
@@ -82,12 +77,6 @@
             <div class="column">
                 <a href="https://www.youtube.com/channel/UC04awUMPfLwEGtCCWvYq-UQ" target="_blank" rel="noopener noreferrer"><img src="img/people/anidox.png" class="someone admin"></a>
                 <h3>Anidox</h3>
-                <span class="tag is-info">Admin</span>
-          </div>
-		  
-		    <div class="column">
-                <img src="img/people/joe.png" class="someone admin"></a>
-                <h3>Joe <span title="Joe">(Flich)</a></h3>
                 <span class="tag is-info">Admin</span>
           </div>
 
@@ -125,7 +114,25 @@
           <h3>TrashyClassy</h3>
           <span class="tag is-warning">Moderator</span>
       </div>
+	  
+	  <div class="column">
+          <img src="img/people/jj.png" class="someone mod">
+          <h3>Jj The Husky</h3>
+          <span class="tag is-warning">Moderator</span>
+      </div>
+	  
+	  <div class="column">
+          <img src="img/people/bobpony.png" class="someone mod">
+          <h3>Bob Pony</h3>
+          <span class="tag is-warning">Moderator</span>
+      </div>
 
+	  <div class="column">
+          <img src="img/people/gellatio.png" class="someone mod">
+          <h3>Joel</h3>
+          <span class="tag is-warning">Moderator</span>
+      </div>
+	  
     </div>
     
     <a href="mailto:staff@auroracommunity.co"</a>
