@@ -62,8 +62,8 @@
             </div>
 
             <div class="column">
-                <a href="http://windowslogic.co.uk/" target="_blank" rel="noopener noreferrer"><img src="img/people/wlp.png" class="someone admin"></a>
-                <h3>WindowsLogic <span title="WindowsLogic">(Tim)</a></h3>
+                <img src="img/people/jake.jpg" class="someone admin"></a>
+                <h3>Jake</h3>
                 <span class="tag is-info">Admin</span>
             </div>
 
