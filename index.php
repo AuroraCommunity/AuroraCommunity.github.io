@@ -28,7 +28,7 @@
             </div>
 
             <div class="column">
-                <a href="https://www.scammer.info" target="_blank" rel="noopener noreferrer"><img src="img/people/thunder.png" class="someone ceo"></a>
+                <a href="https://byte.gg" target="_blank" rel="noopener noreferrer"><img src="img/people/thunder.png" class="someone ceo"></a>
                 <h3>Thunder</h3>
                 <span class="tag is-danger">CEO</span>
             </div>
