@@ -97,8 +97,7 @@
           </div>
 
           <div class="column">
-              <a href="https://www.youtube.com/channel/UCfpY45UhtJ9i-_PJVwBOzvA
-" target="_blank" rel="noopener noreferrer"><img src="img/people/jaffa.png" class="someone mod"></a>
+              <a href="http://jaffasite.ga" target="_blank" rel="noopener noreferrer"><img src="img/people/jaffa.png" class="someone mod"></a>
               <h3><span title="AKA TheJaffaMeme">TheJaffaMan</span></h3>
               <span class="tag is-warning">Moderator</span>
           </div>
