@@ -13,7 +13,7 @@
         <h1 class="title"><strong>About</strong></h1>
         <h2 class="subtitle">What even is Aurora?</h2>
         <p>Aurora is a community of people.</p>
-        <p>Since late 2016 we've amassed 3000 members.</p>
+        <p>Since late 2016 we've amassed over 3,000 members.</p>
         <p>We're mostly interested in technology and outing tech support scammers.</p>
     </div>
 			<div id="content-inner">
