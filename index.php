@@ -7,7 +7,7 @@
   <?php include 'include/hero.php';?>
 
     <div id="content">
-      
+
 
     <div id="about" class="box" style="text-align: center;">
         <h1 class="title"><strong>About</strong></h1>
@@ -35,10 +35,10 @@
 
             <div class="column">
                 <a href="https://dnomaid.co.uk" target="_blank" rel="noopener noreferrer"><img src="img/people/dnomaid.png" class="someone manager"></a>
-                <h3>Dnomaid</h3>
+                <h3>dnomaid</h3>
                 <span class="tag is-danger">Manager</span>
             </div>
-			
+
 			<div class="column">
                 <img src="img/people/fletch.png" class="someone manager"></a>
                 <h3>Haden</h3>
@@ -113,13 +113,13 @@
           <h3>TrashyClassy</h3>
           <span class="tag is-warning">Moderator</span>
       </div>
-	  
+
 	  <div class="column">
           <img src="img/people/jj.png" class="someone mod">
           <h3>Jj The Husky</h3>
           <span class="tag is-warning">Moderator</span>
       </div>
-	  
+
 	  <div class="column">
           <img src="img/people/bobpony.png" class="someone mod">
           <h3>Bob Pony</h3>
@@ -131,9 +131,9 @@
           <h3>Joel</h3>
           <span class="tag is-warning">Moderator</span>
       </div>
-	  
+
     </div>
-    
+
     <a href="mailto:staff@auroracommunity.co"</a>
 	<h3>Have a query? Contact us via Email!</h3>
 
