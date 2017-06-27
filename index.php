@@ -30,7 +30,7 @@
             <div class="column">
                 <a href="https://byte.gg" target="_blank" rel="noopener noreferrer"><img src="img/people/thunder.png" class="someone ceo"></a>
                 <h3>Thunder</h3>
-                <span class="tag is-danger">CEO</span>
+                <span class="tag is-danger">CEO & Systems Management</span>
             </div>
 
             <div class="column">
@@ -79,6 +79,12 @@
                 <h3>Anidox</h3>
                 <span class="tag is-info">Admin</span>
           </div>
+		  
+		  <div class="column">
+           <a href="http://gellat.io" target="_blank" rel="noopener noreferrer"><img src="img/people/gellatio.png" class="someone admin"></a>
+          <h3>Joel</h3>
+          <span class="tag is-warning">Admin</span>
+      </div>
 
         </div>
 
@@ -121,14 +127,8 @@
       </div>
 
 	  <div class="column">
-          <img src="img/people/bobpony.png" class="someone mod">
-          <h3>Bob Pony</h3>
-          <span class="tag is-warning">Moderator</span>
-      </div>
-
-	  <div class="column">
-           <a href="http://gellat.io" target="_blank" rel="noopener noreferrer"><img src="img/people/gellatio.png" class="someone mod"></a>
-          <h3>Joel</h3>
+          <img src="img/people/billy.png" class="someone mod">
+          <h3>Billy</h3>
           <span class="tag is-warning">Moderator</span>
       </div>
 
