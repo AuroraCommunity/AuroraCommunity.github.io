@@ -77,7 +77,7 @@
 
 		  
 		  <div class="column">
-           <a href="http://gellat.io" target="_blank" rel="noopener noreferrer"><img src="img/people/gellatio.png" class="someone admin"></a>
+           <a href="http://gellat.io" target="_blank" rel="noopener noreferrer"><img src="img/people/gellatio.jpg" class="someone admin"></a>
           <h3>Joel</h3>
           <span class="tag is-info">Admin</span>
       </div>
