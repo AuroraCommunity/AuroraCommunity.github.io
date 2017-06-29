@@ -47,23 +47,23 @@
 
 
         </div>
+            
+         <div class="column">
+                <a href="https://www.youtube.com/channel/UC04awUMPfLwEGtCCWvYq-UQ" target="_blank" rel="noopener noreferrer"><img src="img/people/anidox.png" class="someone admin-plus"></a>
+                <h3>Anidox</h3>
+                <span class="tag is-info">Head Admin</span>
+          </div>
 
         <div class="columns">
           <div class="column">
-                <a href="http://aerofusion.ml" target="_blank" rel="noopener noreferrer"><img src="img/people/espi.png" class="someone admin-plus"></a>
+                <a href="http://aerofusion.ml" target="_blank" rel="noopener noreferrer"><img src="img/people/espi.png" class="someone admin"></a>
                 <h3>Espi <span title="Espi">(AeroFusion)</a></h3>
-                <span class="tag is-info">Head Admin</span>
+                <span class="tag is-info">Admin</span>
           </div>
 
             <div class="column">
                 <a href="https://therandommelon.xyz/" target="_blank" rel="noopener noreferrer"><img src="img/people/melon.png" class="someone admin"></a>
                 <h3>Michael <span title="TheRandomMelon">(TRM)</span></h3>
-                <span class="tag is-info">Admin</span>
-            </div>
-
-            <div class="column">
-                <img src="img/people/jake.jpg" class="someone admin"></a>
-                <h3>Jake</h3>
                 <span class="tag is-info">Admin</span>
             </div>
 
@@ -74,11 +74,7 @@
             </div>
 
 
-            <div class="column">
-                <a href="https://www.youtube.com/channel/UC04awUMPfLwEGtCCWvYq-UQ" target="_blank" rel="noopener noreferrer"><img src="img/people/anidox.png" class="someone admin"></a>
-                <h3>Anidox</h3>
-                <span class="tag is-info">Admin</span>
-          </div>
+
 		  
 		  <div class="column">
            <a href="http://gellat.io" target="_blank" rel="noopener noreferrer"><img src="img/people/gellatio.png" class="someone admin"></a>
@@ -131,6 +127,10 @@
           <h3>Billy</h3>
           <span class="tag is-warning">Moderator</span>
       </div>
+	  <div class="column">
+	  <img src="img/people/dan.jpg" class="someone mod">
+  	  <h3>Dan (Gordan Ramsay)</h3>
+		  <span class=tag is-warning">Moderator</span>
 
     </div>
 
