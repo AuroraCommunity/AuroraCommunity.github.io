@@ -123,6 +123,7 @@
       </div>
 
 	  <div class="column">
+	<a href="http://ibilly.me" target="_blank" rel="noopener noreferrer"><img src="img/people/da532.png" class="someone mod"></a>
           <img src="img/people/billy.png" class="someone mod">
           <h3>Billy</h3>
           <span class="tag is-warning">Moderator</span>
