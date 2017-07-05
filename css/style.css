@@ -35,7 +35,7 @@ a {
 
 .someone:hover {
     transform: /*scale(1.5)*/
-    rotate(360deg);
+        rotate(360deg);
 }
 
 .ceo {
@@ -176,9 +176,9 @@ footer a:hover {
 
 
 /*#footer-inner {
-  position: absolute;
-  bottom: 2em;
-  left: 0;
-  width: 100%;
-  text-align: c
+    position: absolute;
+    bottom: 2em;
+    left: 0;
+    width: 100%;
+    text-align: c
 }*/
