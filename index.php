@@ -145,4 +145,44 @@
             <!-- Content End -->
         </div>
 
+<<<<<<< HEAD
 <?php include 'include/footer.php';?>
+=======
+        <div class="column">
+          <img src="img/people/trashy.png" class="someone mod">
+          <h3>TrashyClassy</h3>
+          <span class="tag is-warning">Moderator</span>
+      </div>
+
+	  <div class="column">
+          <img src="img/people/jj.png" class="someone mod">
+          <h3>Jj The Husky</h3>
+          <span class="tag is-warning">Moderator</span>
+      </div>
+
+	  <div class="column">
+	<a href="http://ibilly.me" target="_blank" rel="noopener noreferrer"><img src="img/people/da532.png" class="someone mod"></a>
+          <img src="img/people/billy.png" class="someone mod">
+          <h3>Billy</h3>
+          <span class="tag is-warning">Moderator</span>
+      </div>
+	  <div class="column">
+	  <img src="img/people/dan.jpg" class="someone mod">
+  	  <h3>Dan (Gordan Ramsay)</h3>
+		  <span class=tag is-warning">Moderator</span>
+
+    </div>
+
+    <a href="mailto:staff@auroracommunity.co"</a>
+	<h3>Have a query? Contact us via Email!</h3>
+
+    <!-- Staff End -->
+  </div>
+
+<!-- Inner content end -->
+</div>
+<!-- Content End -->
+</div>
+
+<?php include 'include/footer.php';?>
+>>>>>>> AuroraCommunity/master
