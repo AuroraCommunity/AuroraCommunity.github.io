@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="index, follow" />
+  <meta http-equiv="refresh" content="0; url={{ page.redirect }}">
+  <link href="img/aurora.jpg" rel="shortcut icon" type="img/png" />
+
+  <style>
+	body {
+		text-align: center;
+		margin-top: 5em;
+		font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	}
+	a {	
+		display: inline-block;
+		color: #64016b;
+		padding-left: 2px;
+		padding-right: 2px;
+	}
+	a:hover {
+		background-color: #64016b;
+		color: #fff;
+	}
+  </style>
+
+  <title>{% if page.title %}{{ page.title }} &lsaquo; {% endif %}Aurora Community</title>
+</head>
+
+<body>
+<p>Click <a href="{{ page.redirect }}">here</a> to be redirected</p>
+</body>
+
+</html>
