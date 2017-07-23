@@ -26,7 +26,7 @@ a {
 }
 
 .someone {
-    transition: all 0.1s;
+    transition: transform 0.25s ease;
     border-radius: 50%;
     background-color: #ddd;
     border: 5px solid #64016b;
@@ -35,8 +35,9 @@ a {
 }
 
 .someone:hover {
-    transform: /*scale(1.5)*/
-    rotate(360deg);
+    transform:
+    scale(1.1)
+    rotate(360deg)
 }
 
 .ceo {
