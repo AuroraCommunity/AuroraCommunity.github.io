@@ -26,7 +26,7 @@ a {
 }
 
 .someone {
-  transition: all 0.1s;
+  transition: all 1s;
   border-radius: 50%;
   background-color: #ddd;
   border: 5px solid #64016b;
