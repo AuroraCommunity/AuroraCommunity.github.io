@@ -18,14 +18,15 @@ body {
     background: #fff;
     max-width: 70em;
     margin: 0 auto;
+    padding: 2.5em 0;
 }
 
 a {
-    transition: all 0.25s linear;
+    transition: all 0.1s linear;
 }
 
 .someone {
-    transition: all 0.25s;
+    transition: all 0.1s;
     border-radius: 50%;
     background-color: #ddd;
     border: 5px solid #64016b;
@@ -74,7 +75,7 @@ a {
 }
 
 #aurora-hero-logo:hover {
-    animation: shadow-pulse 1s infinite linear;
+    animation: shadow-pulse 1s infinite ease;
 }
 
 @keyframes shadow-pulse {
