@@ -38,6 +38,11 @@ a {
   transform: scale(1.1) rotate(360deg);
 }
 
+.columns .column {
+  max-width: 50%;
+  margin: auto;
+}
+
 .ceo {
   border: 5px solid #E41E4A;
 }
@@ -90,7 +95,6 @@ a {
 }
 
 nav {
-  position: fixed !important;
   top: 0px;
   left: 0px;
   width: 100%;
