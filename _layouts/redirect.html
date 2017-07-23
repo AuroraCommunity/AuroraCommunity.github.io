@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="robots" content="index, follow" />
-		<meta http-equiv="refresh" content="0; url={{ page.destination }}">
+		{% if page.destination %}<meta http-equiv="refresh" content="0; url={{ page.destination }}">{% endif %}
 		<link href="/favicon.ico" rel="shortcut icon" />
 
 		<!-- Meta -->
@@ -21,11 +21,16 @@
 		<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}A Discord community proud to have over 3,000 members.{% endif %}" />
 		<meta name="twitter:image" content="/img/aurora.jpg" />
 
-		<title>Redirecting...</title>
+		<title>{% if page.destination %}Redirecting...{% else %}Error{% endif %}</title>
 	</head>
 
 	<body>
+		{% if page.destination %}
 		<h3>Redirecting...</h3>
 		<p>If you aren't redirected, <a href="{{ page.destination }}">click here</a>.</p>
+		{% else %}
+		<h3>Error</h3>
+		<p>This page was set up as a redirect, however no redirect destination was specified.</p>
+		{% endif %}
 	</body>
 </html>
