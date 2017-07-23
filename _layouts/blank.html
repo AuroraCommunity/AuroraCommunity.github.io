@@ -5,24 +5,24 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="robots" content="index, follow" />
-  <link href="img/aurora.jpg" rel="shortcut icon" type="img/png" />
+  <link href="/favicon.ico" rel="shortcut icon" />
 
   <!-- Meta -->
-  <meta name="description" content="A Discord community proud to have over 3,000 members." />
-  <meta name="keywords" content="aurora, community, discord, website, site, da532, devon, scammer.info, thunder tech" />
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}A Discord community proud to have over 3,000 members.{% endif %}" />
+  <meta name="keywords" content="aurora, community, discord, website, site, da532" />
   <!-- Open Graph  -->
-  <meta property="og:description" content="A Discord community proud to have over 3,000 members." />
-  <meta property="og:image" content="img/aurora.jpg" />
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}A Discord community proud to have over 3,000 members.{% endif %}" />
+  <meta property="og:image" content="/img/aurora.jpg" />
 
-  <link href="style/frameworks/bulma.css" rel="stylesheet" .>
+  <link href="style/frameworks/bulma.css" rel="stylesheet" />
   <link href="style/main.min.css" rel="stylesheet" />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@CommunityAurora" />
-  <meta name="twitter:title" content="Aurora Community" />
-  <meta name="twitter:description" content="A Discord community proud to have over 3,000 members." />
-  <meta name="twitter:image" content="img/aurora.jpg" />
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} &mdash; {% endif %}Aurora Community" />
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}A Discord community proud to have over 3,000 members.{% endif %}" />
+  <meta name="twitter:image" content="/img/aurora.jpg" />
 
   <title>{% if page.title %}{{ page.title }} &lsaquo; {% endif %}Aurora Community</title>
 </head>

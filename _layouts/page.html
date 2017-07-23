@@ -24,20 +24,17 @@ layout: blank
       </span>
 
       <div class="nav-right nav-menu">
-       <a class="nav-item" href="index.html#about">
+       <a class="nav-item" href="/#">
         <i class="fa fa-question-circle fa-fw" style="margin-right: 5px;"></i> About
       </a>
-      <a class="nav-item" href="index.html#staff">
+      <a class="nav-item" href="/#staff">
         <i class="fa fa-wrench fa-fw" style="margin-right: 5px;"></i> Staff
       </a>
-      <a class="nav-item" href="rules.html">
+      <a class="nav-item" href="/rules">
         <i class="fa fa-list-ol fa-fw" style="margin-right: 5px;"></i> Rules
       </a>
       <a class="nav-item" target="_blank" href="https://goo.gl/forms/QOevBqb3ZLsHtibA3">
         <i class="fa fa-file-text fa-fw" target="_blank" style="margin-right: 5px;"></i> Appeal
-      </a>
-      <a class="nav-item" target="_blank" href="https://www.scammer.info">
-        <i class="fa fa-phone fa-fw" target="_blank" style="margin-right: 5px;"></i> Scammer Numbers
       </a>
     </div>
   </nav>
@@ -46,7 +43,7 @@ layout: blank
 <div class="hero-body">
   <img src="img/aurora.jpg" alt="AuroraCommunity" style="width: 150px; border-radius: 50%;" id="aurora-hero-logo">
   <h1 class="title">Aurora Community</h1>
-  <h1><a class="button is-light" target="_blank" href="https://discord.io/aurora">Join Us on Discord</a></h1>
+  <h1><a class="button is-light" target="_blank" href="/join">Join Us on Discord</a></h1>
 </div>
 </section>
 
@@ -71,6 +68,7 @@ layout: blank
     $(".nav-toggle").toggleClass('is-active');
   });
 
+  // Prevent embedding
   if(window.top !== window.self) {
     window.top.location.replace(window.self.location.href);
   }
