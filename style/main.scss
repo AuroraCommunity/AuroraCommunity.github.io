@@ -133,24 +133,31 @@ nav a:hover, .nav-item:hover, nav strong:hover {
 }
 
 .rule {
+    // min-width: 10em;
+    width: 90%;
     max-width: 50em;
     margin: 0 auto;
-    margin-top: 20px;
-    padding: 10px;
+    margin-top: 2em;
+    padding: 2em;
     color: #000;
     background-color: rgba(100, 1, 107, 0.1);
     border-radius: 3px;
     transition: all 0.25s;
+    text-align: left;
+}
+
+.rule::content {
+    margin: 0 auto;
 }
 
 .rule:hover {
     background-color: rgba(100, 1, 107, 0.3);
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
 
 .rule strong {
     color: #333;
-    font-size: 1.2em;
+    // font-size: 1.2em;
 }
 
 .rule a {
