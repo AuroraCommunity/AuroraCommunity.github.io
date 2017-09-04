@@ -2818,15 +2818,26 @@ a.box:active {
   color: #fff;
 }
 
-.tag.is-warning {
-  background-color: #ffdd57;
-  color: rgba(0, 0, 0, 0.7);
-}
-
-.tag.is-danger {
-  background-color: #ff3860;
+.tag.is-mod {
+  background-color: #2ecc71;
   color: #fff;
 }
+
+.tag.is-helper {
+  background-color: #1abc9c;
+  color: #fff;
+}
+
+.tag.is-ceo {
+  background-color: #df1b5b;
+  color: #fff;
+}
+
+.tag.is-manager {
+  background-color: #3498db;
+  color: #fff;
+}
+
 
 .tag.is-medium {
   font-size: 1rem;
