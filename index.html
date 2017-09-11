@@ -1,92 +1,58 @@
----
-layout: page
----
+<!DOCTYPE html>
+<html>
 
-    <div id="content">
-        <div id="content-inner">
-            <div class="box" id="about" style="text-align: center;">
-                <h1 class="title"><strong>About</strong></h1>
-                <h2 class="subtitle">What is Aurora?</h2>
-                <p>Aurora is a Discord community.</p>
-                <p>We're mostly interested in technology and outing tech support scammers.</p>
-            </div>
-            <div class="box" id="staff" style="text-align: center;">
-                <h1 class="title"><strong>Staff</strong></h1>
-                <h2 class="subtitle">Who's in charge?</h2>
-                <div class="columns">
-					{% comment %} Make the CEOs not so big. {% endcomment %}<div class="column"></div>
-                    <div class="column">
-                        <a href="https://thehaden.co" rel="noopener noreferrer" target="_blank"><img class="someone ceo" src="/img/people/haden.jpg"></a>
-                        <h3>Haden</h3><span class="tag is-ceo">CEO</span>
-                    </div>
-                    <div class="column">
-                        <a href="https://www.youtube.com/channel/UCi6p-LPSRkcMhEIJ2Qe0ABg/" rel="noopener noreferrer" target="_blank"><img class="someone ceo" src="/img/people/amy.jpg"></a>
-                        <h3>AtotheK</h3><span class="tag is-ceo">CEO</span>
-                    </div>
-                    <div class="column">
-                        <a href="https://dnomaid.co.uk" rel="noopener noreferrer" target="_blank"><img class="someone ceo" src="/img/people/dnomaid.jpg"></a>
-                        <h3>dnomaid</h3><span class="tag is-ceo">CEO</span>
-                    </div>
-                   	{% comment %} Make the CEOs not so big. {% endcomment %} <div class="column"></div>
-                </div>
-                <div class="columns">
-                    <div class="column">
-                        <a href="https://trm.ovh" rel="noopener noreferrer" target="_blank"><img class="someone manager" src="/img/people/melon.jpg"></a>
-                        <h3>TheRandomMelon</h3><span class="tag is-manager">Manager</span>
-                    </div>
-                    <div class="column">
-                        <img class="someone manager" src="/img/people/vlad.jpg">
-                        <h3>King - Vlad</h3><span class="tag is-manager">Manager</span>
-                    </div>
-                    <div class="column">
-                        <a href="https://aerofusion.net/" rel="noopener noreferrer" target="_blank"><img class="someone admin" src="/img/people/aerofusion.png"></a>
-                        <h3>Espi (AeroFusion)</h3><span class="tag is-info">Admin</span>
-                    </div>
-                    <div class="column">
-                        <a href="https://crashieblog.wordpress.com/" rel="noopener noreferrer" target="_blank"><img class="someone admin" src="/img/people/crashie.png"></a>
-                        <h3>Kira (Crashie)</h3><span class="tag is-info">Admin</span>
-                    </div>
-                    <div class="column">
-                        <a href="https://twitter.com/JjTheHusky" rel="noopener noreferrer" target="_blank"><img class="someone admin" src="/img/people/jj.png"></a>
-                        <h3>Jj The Husky</h3><span class="tag is-info">Admin</span>
-                    </div>
-                    <div class="column">
-                        <a href="https://technach.co/" rel="noopener noreferrer" target="_blank"><img class="someone admin" src="/img/people/technach.jpg"></a>
-                        <h3>Technach</h3><span class="tag is-info">Admin</span>
-                    </div>
-                </div>
-                <div class="columns">
-                    <div class="column">
-                        <a href="http://vaporwave.ga" rel="noopener noreferrer" target="_blank"><img class="someone mod" src="/img/people/vaporwave.jpg"></a>
-                        <h3>Isaac</h3><span class="tag is-mod">Moderator</span>
-                    </div>
-                    <div class="column">
-						<a href="https://twitter.com/TorazerYT" rel="noopener noreferrer" target="_blank"><img class="someone mod" src="/img/people/torazer.jpg"></a>
-                        <h3>Torazer</h3><span class="tag is-mod">Moderator</span>
-                    </div>
-                    <div class="column">
-                        <img class="someone mod" src="/img/people/trashy.jpg">
-                        <h3>TrashyClassy</h3><span class="tag is-mod">Moderator</span>
-                    </div>
-                    <div class="column">
-                        <a href="https://www.youtube.com/channel/UC04awUMPfLwEGtCCWvYq-UQ" rel="noopener noreferrer" target="_blank"><img class="someone mod" src="/img/people/anidox.jpg"></a>
-                        <h3>Anidox</h3><span class="tag is-mod">Moderator</span>
-                    </div>
-                    <div class="column">
-                        <a href="https://www.youtube.com/channel/UCR6HMayY3uKeznb8fepPMaA" rel="noopener noreferrer" target="_blank"><img class="someone mod" src="/img/people/crismenth.jpg"></a>
-                        <h3>Owen</h3><span class="tag is-mod">Moderator</span>
-                    </div>
-                    <div class="column">
-                        <a href="https://twitter.com/SonicHackYT" rel="noopener noreferrer" target="_blank"><img class="someone helper" src="/img/people/sonichack.jpg"></a>
-                        <h3>SonicHack</h3><span class="tag is-helper">Helper</span>
-                    </div>
-                    <div class="column">
-                        <a href="https://youtube.com/annsquake" rel="noopener noreferrer" target="_blank"><img class="someone helper" src="/img/people/annsquake.jpg"></a>
-                        <h3>ANNSQuake</h3><span class="tag is-helper">Helper</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+<head>
+  <meta charset="utf-8">
+  <title>Aurora Community</title>
+  <style media="screen">
+    body {
+      background-color: #aaa;
+      background-image: url('img/header-blur.jpg');
+      background-size: cover;
+      font-family: Helvetica, sans-serif;
+    }
+
+    div {
+      background-color: #eee;
+      color: #333;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+      padding: 5px;
+      padding-top: 10px;
+      border-radius: 5px;
+      text-align: center;
+    }
+
+    div img {
+      width: 30%;
+      border-radius: 50%;
+    }
+
+    div a {
+      text-decoration: none;
+      color: #eee;
+      background-color: purple;
+      border-bottom: 1px solid purple;
+      padding: 5px;
+      border-radius: 2px;
+      transition: all 0.2s ease-in-out;
+    }
+
+    div a:hover {
+      background-color: #eee;
+      color: purple;
+    }
+  </style>
+</head>
+
+<body>
+  <div>
+    <img src="img/aurora.jpg" alt="AR" draggable="false">
+    <h1>Aurora Community</h1>
+    <h2><a href="https://discord.io/aurora">Join Discord</a></h2>
+  </div>
 </body>
+
 </html>
