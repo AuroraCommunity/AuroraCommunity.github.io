@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="index, follow" />
+  <link href="/favicon.ico" rel="shortcut icon" />
+
+  <!-- Meta -->
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}A Discord community.{% endif %}" />
+  <meta name="keywords" content="aurora, community, discord, website, site, da532" />
+  <!-- Open Graph  -->
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}A Discord community.{% endif %}" />
+  <meta property="og:image" content="/img/aurora.jpg" />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@CommunityAurora" />
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} &mdash; {% endif %}Aurora Community" />
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}A Discord community.{% endif %}" />
+  <meta name="twitter:image" content="/img/aurora.jpg" />
+
+  <link href="style/frameworks/bulma.css" rel="stylesheet" />
+  <link href="style/main.min.css" rel="stylesheet" />
+
+  <title>{% if page.title %}{{ page.title }} &lsaquo; {% endif %}Aurora Community</title>
+</head>
+
+<body>
+
+  {{ content }}
+
+  <noscript id="deferred-styles">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+  </noscript>
+  <script>
+    var loadDeferredStyles = function () {
+      var addStylesNode = document.getElementById("deferred-styles");
+      var replacement = document.createElement("div");
+      replacement.innerHTML = addStylesNode.textContent;
+      document.body.appendChild(replacement)
+      addStylesNode.parentElement.removeChild(addStylesNode);
+    };
+    var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+      webkitRequestAnimationFrame || msRequestAnimationFrame;
+    if(raf) raf(function () { window.setTimeout(loadDeferredStyles, 0); });
+    else window.addEventListener('load', loadDeferredStyles);
+  </script>
+</body>
+
+</html>

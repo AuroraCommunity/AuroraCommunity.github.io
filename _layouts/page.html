@@ -1,0 +1,75 @@
+---
+layout: blank
+---
+<section class="hero is-medium" style="background-image: url('/img/header-blur.jpg'); background-size: cover; background-position: center;">
+  <div id="hero-head">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="/"><p>Aurora Community</p></a>
+      </div>
+
+      <div class="nav-center">
+        <a class="nav-item" target="_blank" href="https://twitter.com/CommunityAurora">
+          <span class="icon"><i class="fa fa-twitter"></i></span>
+        </a>
+        <a class="nav-item" target="_blank" href="https://www.youtube.com/channel/UCRvO7kucL0C8fQp0BGri89g">
+          <span class="icon"><i class="fa fa-youtube-play"></i></span>
+        </a>
+      </div>
+
+      <span class="nav-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </span>
+
+      <div class="nav-right nav-menu">
+        <a class="nav-item" href="/#about">
+          <i class="fa fa-question-circle fa-fw" style="margin-right: 5px;"></i> About
+        </a>
+        <a class="nav-item" href="/#staff">
+          <i class="fa fa-wrench fa-fw" style="margin-right: 5px;"></i> Staff
+        </a>
+        <a class="nav-item" target="_blank" href="/appeal">
+          <i class="fa fa-file-text fa-fw" target="_blank" style="margin-right: 5px;"></i> Appeal
+        </a>
+      </div>
+    </nav>
+  </div>
+
+  <div class="hero-body">
+    <img src="/img/aurora.jpg" alt="AuroraCommunity" style="width: 150px; border-radius: 50%;" id="aurora-hero-logo">
+    <h1 class="title">Aurora Community</h1>
+    <a class="button is-light" target="_blank" href="/join">Join Us on Discord</a>
+  </div>
+</section>
+
+{{ content }}
+
+<footer class="footer">
+  <div class="container" id="footer-inner">
+    <div class="content has-text-centered">
+      <p><a href="#"><i class="fa fa-angle-up"></i></a></p>
+      <p>
+        Copyright &copy; 2017 Aurora Community.
+        <br/>
+        Site by <a href="https://dnomaid.co.uk">dnomaid</a> and several <a href="https://github.com/AuroraCommunity/AuroraWebsite/graphs/contributors">contributors</a>.
+        <br/>
+        View the <a href="https://github.com/AuroraCommunity/AuroraWebsite">Source Code on GitHub <i class="fa fa-github"></i></a>
+      </p>
+    </div>
+  </div>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+  $(".nav-toggle").click(function () {
+    $(".nav-menu").toggleClass('is-active');
+    $(".nav-toggle").toggleClass('is-active');
+  });
+
+  // Prevent embedding
+  if(window.top !== window.self) {
+    window.top.location.replace(window.self.location.href);
+  }
+</script>
