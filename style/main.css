@@ -63,12 +63,12 @@ a {
     border: 5px solid #3478db;
 }
 
-.mod {
-    border: 5px solid #2ecc71;
+.supervisor {
+  border: 5px solid #218B4C;
 }
 
-.helper {
-  border: 5px solid #1abc9c;
+.mod {
+    border: 5px solid #2ecc71;
 }
 
 .hero, nav {
