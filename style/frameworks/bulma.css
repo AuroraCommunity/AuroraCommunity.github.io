@@ -2818,13 +2818,13 @@ a.box:active {
   color: #fff;
 }
 
-.tag.is-mod {
-  background-color: #2ecc71;
+.tag.is-supervisor {
+  background-color: #218B4C;
   color: #fff;
 }
 
-.tag.is-helper {
-  background-color: #1abc9c;
+.tag.is-mod {
+  background-color: #2ecc71;
   color: #fff;
 }
 
