@@ -91,9 +91,7 @@ div#aurora-logos {
 }
 
 div#aurora-logos:hover {
-  transform: scale(1.1) rotate(36&nbsp;
-  &nbsp;
-  0deg);
+  transform: scale(1.1) rotate(360deg);
   background-image: url('img/aurora-retro.jpg');
 }
 
