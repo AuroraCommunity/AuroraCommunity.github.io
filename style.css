@@ -45,6 +45,16 @@ div#messages a {
   color: #eee;
 }
 
+div#messages h1 a {
+  text-decoration: none;
+}
+
+div#messages h1 a:hover::before {
+  content: '# ';
+  font-family: monospace;
+  font-size: 0.8em;
+}
+
 div#messages a:hover {
   text-decoration: none;
 }
