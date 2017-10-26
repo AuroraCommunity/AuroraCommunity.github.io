@@ -87,8 +87,13 @@ div#aurora-logos:hover {
   background-image: url('img/aurora-retro.jpg');
 }
 
+.arrow-down {
+  transform: rotate(90deg); display: inline-block; position: relative; top: 2px; left: 2px;"
+}
+
 a {
   cursor: pointer;
+  transition: all 0.3s;
 }
 
 a.button {
@@ -98,7 +103,6 @@ a.button {
   padding: 5px;
   text-decoration: none;
   border-radius: 4px;
-  transition: all 0.3s;
   text-align: center;
 }
 
@@ -106,9 +110,17 @@ a.button:hover {
   background-color: #eee;
 }
 
-.expando:hover::after {
-  content: ' Click to expand this message';
-  font-size: 0.8em;
+a.expando {
+  display: block;
+  width: 100%;
+  text-align: center;
+    background-color: #29002a;
+  border-radius: 2px;
+}
+
+a.expando:hover {
+  background-color: #430045;
+
 }
 
 @media screen and (max-width: 50em) {
