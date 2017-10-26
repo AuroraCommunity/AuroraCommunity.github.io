@@ -142,4 +142,7 @@ a.expando:hover {
   a.button:first-of-type {
     margin-right: 8px;
   }
+  a.button:last-of-type {
+    margin-left: 8px;
+  }
 }
