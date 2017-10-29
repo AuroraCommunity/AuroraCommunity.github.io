@@ -128,7 +128,26 @@ a.expando {
 
 a.expando:hover {
   background-color: #430045;
+}
 
+p#github {
+  margin-top: 32px;
+  opacity: 0.6;
+  font-size: 0.7em;
+  background-color: rgba(100, 1, 107, 0.3);
+  padding: 8px;
+  border-radius: 4px;
+  transition: all 0.5s;
+  cursor: default;
+}
+
+p#github:hover {
+  background-color: rgba(100, 1, 107, 0.8);
+  opacity: 1;
+}
+
+p#github a {
+  color: #cbcbcb;
 }
 
 @media screen and (max-width: 50em) {
