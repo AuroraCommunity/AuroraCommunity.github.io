@@ -114,6 +114,10 @@ a.button {
   text-align: center;
 }
 
+a.button.discord {
+  margin-bottom: 4px;
+}
+
 a.button:hover {
   background-color: #eee;
 }
