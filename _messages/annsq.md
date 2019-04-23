@@ -1,0 +1,6 @@
+---
+uname: AnnsQuake
+---
+Whilst Aurora has had its ups and downs in the past, I have always felt really honoured to be part of such a community. Sure, there's been a lot of drama which I didn't exactly enjoy so much, but it's the fun moments that I'll always remember. If being part of all of this has taught me anything, it's that I will always try and treasure the great moments that I have, rather than dwelling on the awkward, bad moments that I remember. I'll really miss this server. Massive community with over 3,000 members until one day... this server got NUKED! Ever since the nuke, the server never got restored back where it was before.¬ I'll really miss all of the times where different members of the server collaborated on our weird original memes. I'll really miss all of the great times we had - like when some of us celebrated New Years' in a rabb.it whilst watching the London Eye fireworks, and all of the times when people would joke around in the busy, overcrowded public lobbies. And whilst there's been arguments, and whilst there's been disagreements, I don't think any of us would ever regret joining this community.
+
+At the end of the day, we've all made mistakes, but being involved in Aurora isn't one of them. Thank you so much to everyone who made this such an amazing place
