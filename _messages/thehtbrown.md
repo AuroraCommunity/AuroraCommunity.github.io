@@ -1,6 +1,6 @@
 ---
 rname: Hayden
-uname: thehtbrown
+uname: htbrown
 ---
 
 My first one was bad, so let's go again.
